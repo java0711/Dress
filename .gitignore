@@ -1,0 +1,27 @@
+#java specific
+*.class
+*.jar
+
+### Gradle ###
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+/.idea/
+*.iws
+*.iml
+*.ipr
+
+
+/evening_dress_rental/build/
+/evening_dress_rental/out/
