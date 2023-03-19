@@ -1,1 +1,1 @@
-![build](https://github.com/java0711/Evening-Dress-Rental/actions/workflows/build.yaml/badge.svg)
+![build](https://github.com/java0711/Dress/actions/workflows/build.yaml/badge.svg)
